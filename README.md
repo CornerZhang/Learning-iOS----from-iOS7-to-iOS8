@@ -1,4 +1,6 @@
-Learning-iOS----from-iOS7-to-iOS8
-=================================
+# Learning iOS -- from iOS7 to iOS8
 
-with Objective-C &amp; Swift
+Welcome in my book!
+
+
+
